@@ -1,0 +1,40 @@
+{
+  "build": {
+    "beforeDevCommand": "",
+    "beforeBuildCommand": "",
+    "devPath": "index.html",
+    "distDir": "."
+  },
+  "package": {
+    "productName": "PRACTICAL_CHEMINFORMATICS_TUTORIALS",
+    "version": "1.0.0"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": false,
+      "shell": {
+        "open": true
+      }
+    },
+    "bundle": {
+      "active": true,
+      "targets": "all",
+      "identifier": "gg.anticloud.practical_cheminformatics_tutorials",
+      "category": "DeveloperTool",
+      "shortDescription": "PRACTICAL_CHEMINFORMATICS_TUTORIALS \u2014 Anticloud Sovereign AI Infrastructure",
+      "longDescription": "Installer for PRACTICAL_CHEMINFORMATICS_TUTORIALS, part of the Anticloud sovereign AI infrastructure stack"
+    },
+    "security": {
+      "csp": null
+    },
+    "windows": [
+      {
+        "title": "PRACTICAL_CHEMINFORMATICS_TUTORIALS Installer",
+        "width": 900,
+        "height": 700,
+        "resizable": true,
+        "fullscreen": false
+      }
+    ]
+  }
+}

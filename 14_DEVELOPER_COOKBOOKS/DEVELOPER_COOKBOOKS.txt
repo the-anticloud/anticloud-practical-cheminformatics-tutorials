@@ -1,0 +1,25 @@
+ Developer Cookbooks — PRACTICAL_CHEMINFORMATICS_TUTORIALS
+
+Company: Anticloud FZ LLE
+Model: PAX L5 Narrow L2 General 27B
+Project: PRACTICAL_CHEMINFORMATICS_TUTORIALS | Category: MEDICINE_DEVELOPMENT
+Upstream: https://github.com/PatWalters/practical_cheminformatics_tutorials (MIT)
+
+ Overview
+
+This document covers developer cookbooks for the Anticloud integration of PRACTICAL_CHEMINFORMATICS_TUTORIALS.
+
+Drug discovery cheminformatics
+
+ Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into PRACTICAL_CHEMINFORMATICS_TUTORIALS to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+ Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
