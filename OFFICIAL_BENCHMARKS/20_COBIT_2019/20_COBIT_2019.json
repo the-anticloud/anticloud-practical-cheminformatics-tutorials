@@ -1,0 +1,21 @@
+{
+ "framework": "20_COBIT_2019",
+ "title": "ISACA COBIT 2019",
+ "project": "PRACTICAL_CHEMINFORMATICS_TUTORIALS",
+ "basis": [
+  {
+   "check": "05_git_health",
+   "status": "PASS",
+   "observed": "branch=main head=d2b20db0e5b7 commits=1 clean=True gitignore"
+  },
+  {
+   "check": "14_iso_27001",
+   "status": "PASS",
+   "observed": "framework=ISO/IEC 27001:2022 Annex A controls=9 verified=9 u"
+  }
+ ],
+ "verdict": "CONTROLS EVIDENCED \u2014 all basis checks PASS",
+ "pax_provenance": "Run ID loiskleinner/pax-benchmark-runner v3, 2026-10-02, Kaggle T4 x2 (2x 16GB VRAM), Ubuntu 22.04, Python 3.12. These are PAX L5 Narrow L2 General 27B model-level results \u2014 shared model component, not this project's verdict.",
+ "bench_sha3": "f30106635c1f9bf0854763f8f583523feda7a6beeb9369a88a0928b08bc084d0",
+ "register_sha3": "d7044ddb020af96d40dff650c0162538b9f3e127d8f7792d80da2544affd42e0"
+}
